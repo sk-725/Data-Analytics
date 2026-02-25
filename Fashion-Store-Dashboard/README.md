@@ -44,3 +44,6 @@ This dashboard analyzes sales performance, customer behavior, and promotion effe
 
 • Visual insights for decision-making
 
+
+
+# PDF contains the dashboard in PDF format, QVF contains the in-app dashboard with real-time toggling and testing.
