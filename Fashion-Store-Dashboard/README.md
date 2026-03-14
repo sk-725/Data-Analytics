@@ -44,6 +44,14 @@ This dashboard analyzes sales performance, customer behavior, and promotion effe
 
 • Visual insights for decision-making
 
+**Key Insights**:
+
+• Top 20% of cities contributed to majority of revenue
+
+• Certain discount ranges reduced profit margin
+
+• Specific product categories drove most sales
+
 
 
 **PDF contains the dashboard in PDF format, QVF contains the in-app dashboard with real-time toggling and testing.**
